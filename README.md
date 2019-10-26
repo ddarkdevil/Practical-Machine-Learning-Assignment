@@ -1,0 +1,2 @@
+# Practical-Machine-Learning-Assignment
+With the advent and use of devices such as Jawbone Up, Nike FuelBand and Fitbit, it has now become possible to collect obscenely large amounts of data about a person’s personal activity. In this submission, this has been put to use as data from accelerometers on the belt, forearm and dumbbell of 6 participants were quantified and a prediction on this quantified data was made.
